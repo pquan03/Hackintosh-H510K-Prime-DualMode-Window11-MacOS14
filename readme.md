@@ -11,7 +11,6 @@
 - CPU: Intel I5 10400  
 
 # BIOS settings
-> Upgrade BIOS firmware to 1501 first.
 - Advanced \ CPU Configuration \ Software Guard Extensions (SGX): Software Controlled  
 - Advanced \ CPU Configuration \ Intel (VMX) Virtualization Technology: Disabled  
 - Advanced \ System Agent (SA) Configuration \ VT-d: Disabled  
