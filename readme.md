@@ -7,6 +7,7 @@
 - Version: macOS Sonoma 14
 - Motherboard: ASUS H510K Prime
 - Graphics: RX 570  
+- SSD: WD SN730
 - CPU: Intel I5 10400  
 
 # BIOS settings
